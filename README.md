@@ -314,4 +314,4 @@ Unfortunately, the clusters look very close to each other, making the K-means mo
 
 ## Conclusion
 
-The model which performed best has so far been the Decision Tree Model. Although the accuracy level is quite low, it lends itself to be possibly considered the best option for further developments in future music genre classification attempts. 
+The model which has performed best is the Decision Tree Model. Although the accuracy level is quite low, it lends itself to be possibly considered the best option for further developments in future music genre classification attempts. 
