@@ -6,7 +6,7 @@ Classification model to assign songs to a music genre, according to their techni
 
 The aim of this assignment is to explore classification models for dividing songs into musical genres. The GTZAN Genre Collection dataset consists of 1000 audio files,  each 30 seconds long, and is divided into 10 music genres, with 100 files each. The dataset's CSV file was downloaded from Kaggle and contains several technical features of the audiofiles.
 
-In this README.md file, not all steps and outputs have been included. These can be checked in the .ypnb file available in the main folder. Here is a summary of the most relevant insights.
+In this README.md file, not all steps and outputs have been included. These can be checked in the .ipynb file available in the main folder. Here is a summary of the most relevant insights.
 
 Disclaimer: Besides the main aim of classifiyng items, this assignment is also designed to demonstrate how to run a Data Science project, by following all the steps of a data pipeline. <br>
 With hindsight, I would have done a few things differently such as probably analysing the data only according to their music genre rather than just on the whole, or becoming technically familiar with the meaning of all the features. <br>
