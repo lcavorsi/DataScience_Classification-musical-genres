@@ -310,7 +310,7 @@ plt.show()
 
 ![](https://github.com/lcavorsi/DataScience_Classification-musical-genres/blob/main/17_K-means%20clustering.JPG)
 
-Unfortunately the clusters look very close to each other, making the K-means model the least reliable.
+Unfortunately, the clusters look very close to each other, making the K-means model the least reliable.
 
 ## Conclusion
 
