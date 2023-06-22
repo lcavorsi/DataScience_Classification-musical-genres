@@ -1,5 +1,5 @@
 # [DataScience: Classification (musical-genres)](https://github.com/lcavorsi/DataScience_Classification-musical-genres)
-Classification model to assign songs to a music genre, according to their technical features <br>
+Classification model to divide songs into music genres, according to their technical features <br>
 (Part of PGCert in 'Applied Data Science', Birkbeck University)
 
 ## Overview
@@ -9,7 +9,6 @@ The aim of this assignment is to explore classification models for dividing song
 In this README.md file, not all steps and outputs have been included. These can be checked in the .ipynb file available in the main folder. Here is a summary of the most relevant insights.
 
 Disclaimer: Besides the main aim of classifiyng items, this assignment is also designed to demonstrate how to run a Data Science project, by following all the steps of a data pipeline. <br>
-With hindsight, I would have done a few things differently such as probably analysing the data only according to their music genre rather than just on the whole, or becoming technically familiar with the meaning of all the features. <br>
 Although the models' accuracy is not very high, I think it represents a good starting point for further developments. Among these, identifying the most critical features to predict music genres could prove particularly fruitful.
 
 ## Technology used
